@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan
-- 👀 I’m interested in machine learning with python, Artificial Intelligence, space, mars, space X and literally anything that has to do with science except biology.
+- 👀 I’m interested in machine learning with python and Artificial Intelligence.
 - 🌱 I’m currently learning django and machine learning with python.
 - 💞️ I’m looking to collaborate on open source projects which I am able to help in.
 - 📫 You can reach me with my email: jonathanmbatuegwu@gmail.com.
